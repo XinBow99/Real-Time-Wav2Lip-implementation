@@ -2,8 +2,11 @@
 This project is a real-time Wav2Lip implementation that I am actively optimizing to enhance the precision and performance of audio-to-lip synchronization.
 
 # Development Phase demo
-The following video showcases a test conducted during the development phase of the project.(Youtube)
+This is a brief test video from the project's development phase.(Youtube)
 [![Watch](https://img.youtube.com/vi/Nkncnj8bcv8/0.jpg)](https://www.youtube.com/watch?v=Nkncnj8bcv8)
+* Demo device information
+  * CPU: I5-11500
+  * GPU: None
 
 
 # Acknowledgments
