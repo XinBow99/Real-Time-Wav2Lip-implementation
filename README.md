@@ -3,8 +3,7 @@ This project is a real-time Wav2Lip implementation that I am actively optimizing
 
 # Development Phase demo
 The following video showcases a test conducted during the development phase of the project.
-
-<iframe width="368" height="655" src="https://www.youtube.com/embed/Nkncnj8bcv8" title="Real-Time-Wav2Lip-implementation" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch](https://img.youtube.com/vi/Nkncnj8bcv8/0.jpg)](https://www.youtube.com/watch?v=Nkncnj8bcv8)
 
 
 # Acknowledgments
