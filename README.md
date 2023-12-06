@@ -4,10 +4,7 @@ This project is a real-time Wav2Lip implementation that I am actively optimizing
 # Development Phase demo
 The following video showcases a test conducted during the development phase of the project.
 
-<video width="320" height="240" controls>
-    <source src="https://github.com/XinBow99/Real-Time-Wav2Lip-implementation/assets/36734430/a7417667-9be2-4447-994c-2dc668058cfa
-" type="video/mp4">
-</video>
+<iframe width="368" height="655" src="https://www.youtube.com/embed/Nkncnj8bcv8" title="Real-Time-Wav2Lip-implementation" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # Acknowledgments
